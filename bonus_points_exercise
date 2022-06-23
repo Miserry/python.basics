@@ -1,7 +1,6 @@
 #The goal is to find how many bonus points our number will get.
 
 
-
 num = int(input("Enter you number here: "))
 bonus_points = 0
 
